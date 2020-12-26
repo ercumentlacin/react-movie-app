@@ -1,4 +1,4 @@
 # React Movie App
 
-is loading..
+[Netfily](https://react-movie-app-tmdb-ercumentlacin.netlify.app/)
 
