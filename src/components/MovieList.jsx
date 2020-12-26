@@ -4,7 +4,7 @@ const MovieList = props => {
   return (
     <div className="row">
       {props.movies.map(movie => (
-        <div className="col-lg-4" key={movie.id}>
+        <div className="col-sm-6 col-md-4 col-lg-3" key={movie.id}>
           <div className="card mb-4 shadow-sm">
             <img
               className="card-img-top"
