@@ -27,7 +27,7 @@ $ npm start
 
 
 ### Mobile 
-![Mobile](./src/images/mobile.jpg)
+<img src="./src/images/mobile.jpg" alt="images" style="height: 400px;" >
 
 ## Tech
 React Movie App - TMDB uses a number of libraries.
