@@ -17,6 +17,11 @@ $ npm start
 - If you can't see any movies, one of the users deleted all the movies.
 - Please do not delete all movies.
 
+## Tech
+React Movie App - TMDB uses a number of libraries.
+- [ReactJS](https://reactjs.org/) - Frontend Library for awesome apps!
+- [Bootstrap5](https://getbootstrap.com/) - The world’s most popular front-end open source toolkit
+
 ## ScreenShots
 
 ### Desktop 
@@ -27,12 +32,9 @@ $ npm start
 
 
 ### Mobile 
-<img src="./src/images/mobile.jpg" alt="images" style="height: 400px;" >
+[Mobile](./src/images/mobile.jpg)
 
-## Tech
-React Movie App - TMDB uses a number of libraries.
-- [ReactJS](https://reactjs.org/) - Frontend Library for awesome apps!
-- [Bootstrap5](https://getbootstrap.com/) - The world’s most popular front-end open source toolkit
+
 
 
 
