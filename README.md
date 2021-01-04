@@ -32,7 +32,7 @@ React Movie App - TMDB uses a number of libraries.
 
 
 ### Mobile 
-[Mobile](./src/images/mobile.jpg)
+[Mobile View](./src/images/mobile.jpg)
 
 
 
